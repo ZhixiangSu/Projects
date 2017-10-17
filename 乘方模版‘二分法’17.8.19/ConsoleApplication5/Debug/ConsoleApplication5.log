@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+c:\users\new\documents\visual studio 2017\projects\consoleapplication5\consoleapplication5\consoleapplication5.cpp(11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication5.vcxproj -> c:\users\new\Documents\Visual Studio 2017\Projects\ConsoleApplication5\Debug\ConsoleApplication5.exe
+  ConsoleApplication5.vcxproj -> c:\users\new\Documents\Visual Studio 2017\Projects\ConsoleApplication5\Debug\ConsoleApplication5.pdb (Partial PDB)
